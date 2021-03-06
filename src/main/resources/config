@@ -1,0 +1,6 @@
+## This file contains configuration parameters for spark job
+inputFilePath=src/main/resources/allyears2k.csv
+inputFileFormat=csv
+isHeaderEnabled=true
+
+

@@ -1,0 +1,2 @@
+accessKey=AKIA5UABXXRW3H6VBKNJ
+secretAccess=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
